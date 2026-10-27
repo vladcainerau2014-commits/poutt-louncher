@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: PondLauncher-Setup.exe
+    sha512: KbEos+qtgmu3CV4FlVxGLCiDq48+6eXBWptT6XAFs+YpfaVfR8r5oZfEfHaHQ29PEfAyNCKyCza6oFmGrZqDyg==
+    size: 82512121
+path: PondLauncher-Setup.exe
+sha512: KbEos+qtgmu3CV4FlVxGLCiDq48+6eXBWptT6XAFs+YpfaVfR8r5oZfEfHaHQ29PEfAyNCKyCza6oFmGrZqDyg==
+releaseDate: '2026-10-27T01:02:21.743Z'
